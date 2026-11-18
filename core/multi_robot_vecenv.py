@@ -20,6 +20,7 @@ class MultiRobotVecEnv(VecEnv):
         # converts it to np.float32 correctly.
         base_env = gym.make(env_id, disable_env_checker=True)
         self.hetero_env = HeterogeneousWarehouseWrapper(base_env, robot_types=robot_types, seed=seed)
+        self.seed = seed
         self.n_robots = self.hetero_env.unwrapped.n_agents
 
         obs_dim = 80  # from our confirmed observation size
@@ -32,7 +33,7 @@ class MultiRobotVecEnv(VecEnv):
         self._last_obs = None
 
     def reset(self):
-        obs_tuple, info = self.hetero_env.reset()
+        obs_tuple, info = self.hetero_env.reset(seed=self.seed)
         self._last_obs = np.stack(obs_tuple).astype(np.float32)
         return self._last_obs
 

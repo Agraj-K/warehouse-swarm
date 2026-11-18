@@ -1,0 +1,152 @@
+{
+  "2_robots|1": {
+    "deliveries": 488,
+    "match_rate": 99.79508196721312,
+    "n_robots": 2
+  },
+  "2_robots|42": {
+    "deliveries": 562,
+    "match_rate": 100.0,
+    "n_robots": 2
+  },
+  "2_robots|100": {
+    "deliveries": 418,
+    "match_rate": 99.76076555023924,
+    "n_robots": 2
+  },
+  "2_robots|2024": {
+    "deliveries": 538,
+    "match_rate": 100.0,
+    "n_robots": 2
+  },
+  "2_robots|7": {
+    "deliveries": 564,
+    "match_rate": 99.64539007092199,
+    "n_robots": 2
+  },
+  "2_robots|11": {
+    "deliveries": 581,
+    "match_rate": 99.65576592082617,
+    "n_robots": 2
+  },
+  "2_robots|23": {
+    "deliveries": 449,
+    "match_rate": 100.0,
+    "n_robots": 2
+  },
+  "2_robots|99": {
+    "deliveries": 622,
+    "match_rate": 99.19614147909968,
+    "n_robots": 2
+  },
+  "2_robots|314": {
+    "deliveries": 575,
+    "match_rate": 99.82608695652175,
+    "n_robots": 2
+  },
+  "2_robots|777": {
+    "deliveries": 507,
+    "match_rate": 100.0,
+    "n_robots": 2
+  },
+  "4_robots|1": {
+    "deliveries": 508,
+    "match_rate": 99.21259842519686,
+    "n_robots": 4
+  },
+  "4_robots|42": {
+    "deliveries": 600,
+    "match_rate": 99.16666666666667,
+    "n_robots": 4
+  },
+  "4_robots|100": {
+    "deliveries": 452,
+    "match_rate": 98.89380530973452,
+    "n_robots": 4
+  },
+  "4_robots|2024": {
+    "deliveries": 436,
+    "match_rate": 99.31192660550458,
+    "n_robots": 4
+  },
+  "4_robots|7": {
+    "deliveries": 394,
+    "match_rate": 99.23857868020305,
+    "n_robots": 4
+  },
+  "4_robots|11": {
+    "deliveries": 389,
+    "match_rate": 99.48586118251927,
+    "n_robots": 4
+  },
+  "4_robots|23": {
+    "deliveries": 579,
+    "match_rate": 99.65457685664938,
+    "n_robots": 4
+  },
+  "4_robots|99": {
+    "deliveries": 453,
+    "match_rate": 99.55849889624724,
+    "n_robots": 4
+  },
+  "4_robots|314": {
+    "deliveries": 426,
+    "match_rate": 99.53051643192488,
+    "n_robots": 4
+  },
+  "4_robots|777": {
+    "deliveries": 468,
+    "match_rate": 100.0,
+    "n_robots": 4
+  },
+  "8_robots|1": {
+    "deliveries": 660,
+    "match_rate": 98.48484848484848,
+    "n_robots": 8
+  },
+  "8_robots|42": {
+    "deliveries": 672,
+    "match_rate": 97.91666666666666,
+    "n_robots": 8
+  },
+  "8_robots|100": {
+    "deliveries": 695,
+    "match_rate": 98.70503597122303,
+    "n_robots": 8
+  },
+  "8_robots|2024": {
+    "deliveries": 821,
+    "match_rate": 99.02557856272838,
+    "n_robots": 8
+  },
+  "8_robots|7": {
+    "deliveries": 679,
+    "match_rate": 98.52724594992637,
+    "n_robots": 8
+  },
+  "8_robots|11": {
+    "deliveries": 613,
+    "match_rate": 98.69494290375204,
+    "n_robots": 8
+  },
+  "8_robots|23": {
+    "deliveries": 786,
+    "match_rate": 98.85496183206108,
+    "n_robots": 8
+  },
+  "8_robots|99": {
+    "deliveries": 696,
+    "match_rate": 98.99425287356321,
+    "n_robots": 8
+  },
+  "8_robots|314": {
+    "deliveries": 725,
+    "match_rate": 98.89655172413792,
+    "n_robots": 8
+  },
+  "8_robots|777": {
+    "deliveries": 969,
+    "match_rate": 98.55521155830753,
+    "n_robots": 8
+  }
+}

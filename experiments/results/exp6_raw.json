@@ -1,0 +1,643 @@
+{
+  "flat_8_tiny|1": {
+    "deliveries": 712,
+    "match_rate": 97.3314606741573,
+    "comm_per_robot_per_step": 2.55356875,
+    "handoff_rate": 0.0,
+    "n_robots": 8
+  },
+  "flat_8_tiny|42": {
+    "deliveries": 834,
+    "match_rate": 97.96163069544365,
+    "comm_per_robot_per_step": 2.57723125,
+    "handoff_rate": 0.0,
+    "n_robots": 8
+  },
+  "flat_8_tiny|100": {
+    "deliveries": 893,
+    "match_rate": 97.87234042553192,
+    "comm_per_robot_per_step": 2.57648125,
+    "handoff_rate": 0.0,
+    "n_robots": 8
+  },
+  "flat_8_tiny|2024": {
+    "deliveries": 835,
+    "match_rate": 99.04191616766467,
+    "comm_per_robot_per_step": 2.62780625,
+    "handoff_rate": 0.0,
+    "n_robots": 8
+  },
+  "flat_8_tiny|7": {
+    "deliveries": 689,
+    "match_rate": 99.41944847605225,
+    "comm_per_robot_per_step": 2.44078125,
+    "handoff_rate": 0.0,
+    "n_robots": 8
+  },
+  "flat_8_tiny|11": {
+    "deliveries": 753,
+    "match_rate": 98.14077025232405,
+    "comm_per_robot_per_step": 2.58438125,
+    "handoff_rate": 0.0,
+    "n_robots": 8
+  },
+  "flat_8_tiny|23": {
+    "deliveries": 871,
+    "match_rate": 98.96670493685419,
+    "comm_per_robot_per_step": 2.56345625,
+    "handoff_rate": 0.0,
+    "n_robots": 8
+  },
+  "flat_8_tiny|99": {
+    "deliveries": 769,
+    "match_rate": 98.43953185955787,
+    "comm_per_robot_per_step": 2.56798125,
+    "handoff_rate": 0.0,
+    "n_robots": 8
+  },
+  "flat_8_tiny|314": {
+    "deliveries": 660,
+    "match_rate": 98.63636363636363,
+    "comm_per_robot_per_step": 2.570775,
+    "handoff_rate": 0.0,
+    "n_robots": 8
+  },
+  "flat_8_tiny|777": {
+    "deliveries": 772,
+    "match_rate": 98.96373056994818,
+    "comm_per_robot_per_step": 2.56514375,
+    "handoff_rate": 0.0,
+    "n_robots": 8
+  },
+  "flat_16_small|1": {
+    "deliveries": 1385,
+    "match_rate": 99.56678700361012,
+    "comm_per_robot_per_step": 3.769340625,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_small|42": {
+    "deliveries": 1341,
+    "match_rate": 98.50857568978374,
+    "comm_per_robot_per_step": 3.65475,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_small|100": {
+    "deliveries": 1331,
+    "match_rate": 99.02329075882795,
+    "comm_per_robot_per_step": 3.830009375,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_small|2024": {
+    "deliveries": 1248,
+    "match_rate": 98.87820512820514,
+    "comm_per_robot_per_step": 3.59128125,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_small|7": {
+    "deliveries": 1320,
+    "match_rate": 99.0909090909091,
+    "comm_per_robot_per_step": 3.653353125,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_small|11": {
+    "deliveries": 1367,
+    "match_rate": 98.6100950987564,
+    "comm_per_robot_per_step": 3.832971875,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_small|23": {
+    "deliveries": 1302,
+    "match_rate": 98.61751152073732,
+    "comm_per_robot_per_step": 3.656459375,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_small|99": {
+    "deliveries": 1245,
+    "match_rate": 98.63453815261045,
+    "comm_per_robot_per_step": 3.699171875,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_small|314": {
+    "deliveries": 1186,
+    "match_rate": 99.32546374367622,
+    "comm_per_robot_per_step": 3.72038125,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_small|777": {
+    "deliveries": 1272,
+    "match_rate": 98.97798742138365,
+    "comm_per_robot_per_step": 3.686990625,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "hier_16_small_4z|1": {
+    "deliveries": 2343,
+    "match_rate": 98.46350832266324,
+    "comm_per_robot_per_step": 0.6299874999999999,
+    "handoff_rate": 18.71508379888268,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_small_4z|42": {
+    "deliveries": 2270,
+    "match_rate": 98.63436123348018,
+    "comm_per_robot_per_step": 0.646196875,
+    "handoff_rate": 22.27533460803059,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_small_4z|100": {
+    "deliveries": 2377,
+    "match_rate": 98.40134623474968,
+    "comm_per_robot_per_step": 0.6070375,
+    "handoff_rate": 5.742211362248015,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_small_4z|2024": {
+    "deliveries": 2312,
+    "match_rate": 98.22664359861591,
+    "comm_per_robot_per_step": 0.6394093750000001,
+    "handoff_rate": 13.575949367088608,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_small_4z|7": {
+    "deliveries": 2326,
+    "match_rate": 98.53826311263973,
+    "comm_per_robot_per_step": 0.5500031249999999,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_small_4z|11": {
+    "deliveries": 2133,
+    "match_rate": 99.06235349273324,
+    "comm_per_robot_per_step": 0.582925,
+    "handoff_rate": 13.262949521610029,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_small_4z|23": {
+    "deliveries": 1722,
+    "match_rate": 99.24506387921022,
+    "comm_per_robot_per_step": 0.752321875,
+    "handoff_rate": 12.306530766326915,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_small_4z|99": {
+    "deliveries": 1824,
+    "match_rate": 98.51973684210526,
+    "comm_per_robot_per_step": 0.695909375,
+    "handoff_rate": 20.993403181994566,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_small_4z|314": {
+    "deliveries": 2059,
+    "match_rate": 98.93152015541526,
+    "comm_per_robot_per_step": 0.598940625,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_small_4z|777": {
+    "deliveries": 1624,
+    "match_rate": 98.89162561576354,
+    "comm_per_robot_per_step": 0.85970625,
+    "handoff_rate": 34.37757625721352,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "flat_16_medium|1": {
+    "deliveries": 1417,
+    "match_rate": 99.57657021877205,
+    "comm_per_robot_per_step": 2.740896875,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_medium|42": {
+    "deliveries": 1453,
+    "match_rate": 99.72470750172057,
+    "comm_per_robot_per_step": 2.75930625,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_medium|100": {
+    "deliveries": 1613,
+    "match_rate": 99.31804091754495,
+    "comm_per_robot_per_step": 2.8128125,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_medium|2024": {
+    "deliveries": 1341,
+    "match_rate": 98.95600298284862,
+    "comm_per_robot_per_step": 2.749878125,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_medium|7": {
+    "deliveries": 1442,
+    "match_rate": 99.375866851595,
+    "comm_per_robot_per_step": 2.830528125,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_medium|11": {
+    "deliveries": 1408,
+    "match_rate": 99.64488636363636,
+    "comm_per_robot_per_step": 2.76054375,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_medium|23": {
+    "deliveries": 1360,
+    "match_rate": 99.63235294117648,
+    "comm_per_robot_per_step": 2.74475,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_medium|99": {
+    "deliveries": 1451,
+    "match_rate": 99.51757408683667,
+    "comm_per_robot_per_step": 2.765671875,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_medium|314": {
+    "deliveries": 1356,
+    "match_rate": 99.41002949852508,
+    "comm_per_robot_per_step": 2.713115625,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "flat_16_medium|777": {
+    "deliveries": 1413,
+    "match_rate": 99.15074309978769,
+    "comm_per_robot_per_step": 2.764353125,
+    "handoff_rate": 0.0,
+    "n_robots": 16
+  },
+  "hier_16_medium_2z|1": {
+    "deliveries": 2445,
+    "match_rate": 99.38650306748467,
+    "comm_per_robot_per_step": 1.166715625,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_2z|42": {
+    "deliveries": 2458,
+    "match_rate": 98.98291293734744,
+    "comm_per_robot_per_step": 1.20921875,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_2z|100": {
+    "deliveries": 2467,
+    "match_rate": 99.18929874341306,
+    "comm_per_robot_per_step": 1.1414125,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_2z|2024": {
+    "deliveries": 2533,
+    "match_rate": 99.13146466640347,
+    "comm_per_robot_per_step": 1.232303125,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_2z|7": {
+    "deliveries": 2577,
+    "match_rate": 99.30151338766007,
+    "comm_per_robot_per_step": 1.272275,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_2z|11": {
+    "deliveries": 2325,
+    "match_rate": 99.52688172043011,
+    "comm_per_robot_per_step": 1.31173125,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_2z|23": {
+    "deliveries": 2541,
+    "match_rate": 98.85871704053523,
+    "comm_per_robot_per_step": 1.26329375,
+    "handoff_rate": 18.171362852213914,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_2z|99": {
+    "deliveries": 2268,
+    "match_rate": 99.33862433862434,
+    "comm_per_robot_per_step": 1.2942093749999999,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_2z|314": {
+    "deliveries": 2505,
+    "match_rate": 99.04191616766467,
+    "comm_per_robot_per_step": 1.309315625,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_2z|777": {
+    "deliveries": 2440,
+    "match_rate": 99.54918032786885,
+    "comm_per_robot_per_step": 1.29218125,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_4z|1": {
+    "deliveries": 2279,
+    "match_rate": 99.51733216322948,
+    "comm_per_robot_per_step": 0.663859375,
+    "handoff_rate": 6.137298323315407,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_4z|42": {
+    "deliveries": 1979,
+    "match_rate": 99.39363314805458,
+    "comm_per_robot_per_step": 0.5098093749999999,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_4z|100": {
+    "deliveries": 2520,
+    "match_rate": 98.96825396825398,
+    "comm_per_robot_per_step": 0.545684375,
+    "handoff_rate": 6.426056338028169,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_4z|2024": {
+    "deliveries": 2374,
+    "match_rate": 99.19966301600674,
+    "comm_per_robot_per_step": 0.5250312500000001,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_4z|7": {
+    "deliveries": 2315,
+    "match_rate": 99.26565874730021,
+    "comm_per_robot_per_step": 0.6084812500000001,
+    "handoff_rate": 13.817619783616692,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_4z|11": {
+    "deliveries": 2519,
+    "match_rate": 99.12663755458514,
+    "comm_per_robot_per_step": 0.4769,
+    "handoff_rate": 0.0,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_4z|23": {
+    "deliveries": 2431,
+    "match_rate": 99.13615795968738,
+    "comm_per_robot_per_step": 0.4868125,
+    "handoff_rate": 18.841427735517847,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_4z|99": {
+    "deliveries": 2423,
+    "match_rate": 99.54601733388361,
+    "comm_per_robot_per_step": 0.5227125,
+    "handoff_rate": 6.132075471698113,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_4z|314": {
+    "deliveries": 2129,
+    "match_rate": 99.154532644434,
+    "comm_per_robot_per_step": 0.5959749999999999,
+    "handoff_rate": 11.067580803134183,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_4z|777": {
+    "deliveries": 2362,
+    "match_rate": 99.15325994919559,
+    "comm_per_robot_per_step": 0.49791874999999997,
+    "handoff_rate": 6.118665018541409,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_8z|1": {
+    "deliveries": 2299,
+    "match_rate": 99.39103958242714,
+    "comm_per_robot_per_step": 0.1604625,
+    "handoff_rate": 30.096784264751797,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_8z|42": {
+    "deliveries": 2358,
+    "match_rate": 99.3214588634436,
+    "comm_per_robot_per_step": 0.255871875,
+    "handoff_rate": 55.049445609829185,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_8z|100": {
+    "deliveries": 2350,
+    "match_rate": 99.27659574468085,
+    "comm_per_robot_per_step": 0.250475,
+    "handoff_rate": 29.0631547440886,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_8z|2024": {
+    "deliveries": 2430,
+    "match_rate": 99.42386831275721,
+    "comm_per_robot_per_step": 0.152878125,
+    "handoff_rate": 30.266272189349113,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_8z|7": {
+    "deliveries": 2375,
+    "match_rate": 99.32631578947368,
+    "comm_per_robot_per_step": 0.156753125,
+    "handoff_rate": 31.005162465836623,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_8z|11": {
+    "deliveries": 2216,
+    "match_rate": 99.18772563176896,
+    "comm_per_robot_per_step": 0.308728125,
+    "handoff_rate": 27.29320888316704,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_8z|23": {
+    "deliveries": 2330,
+    "match_rate": 99.48497854077253,
+    "comm_per_robot_per_step": 0.3247,
+    "handoff_rate": 43.431553100061386,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_8z|99": {
+    "deliveries": 2090,
+    "match_rate": 99.377990430622,
+    "comm_per_robot_per_step": 0.309746875,
+    "handoff_rate": 54.66798159105851,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_8z|314": {
+    "deliveries": 2366,
+    "match_rate": 99.19695688926458,
+    "comm_per_robot_per_step": 0.17203749999999998,
+    "handoff_rate": 26.172234140361628,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_8z|777": {
+    "deliveries": 2533,
+    "match_rate": 99.56573233320174,
+    "comm_per_robot_per_step": 0.211009375,
+    "handoff_rate": 27.904979965655407,
+    "n_robots": 16,
+    "failed_robots": []
+  },
+  "hier_16_medium_4z_zonefail|1": {
+    "deliveries": 2291,
+    "match_rate": 99.30161501527716,
+    "comm_per_robot_per_step": 0.44812812500000004,
+    "handoff_rate": 43.58818154127322,
+    "n_robots": 16,
+    "failed_robots": [
+      1,
+      10
+    ]
+  },
+  "hier_16_medium_4z_zonefail|42": {
+    "deliveries": 1594,
+    "match_rate": 99.74905897114178,
+    "comm_per_robot_per_step": 0.26468437499999997,
+    "handoff_rate": 45.570630486831604,
+    "n_robots": 16,
+    "failed_robots": [
+      1,
+      4,
+      7,
+      13
+    ]
+  },
+  "hier_16_medium_4z_zonefail|100": {
+    "deliveries": 2277,
+    "match_rate": 99.07773386034255,
+    "comm_per_robot_per_step": 0.51014375,
+    "handoff_rate": 16.855345911949684,
+    "n_robots": 16,
+    "failed_robots": [
+      1
+    ]
+  },
+  "hier_16_medium_4z_zonefail|2024": {
+    "deliveries": 1985,
+    "match_rate": 99.54659949622166,
+    "comm_per_robot_per_step": 0.3067625,
+    "handoff_rate": 19.08997605200137,
+    "n_robots": 16,
+    "failed_robots": [
+      1,
+      7,
+      13
+    ]
+  },
+  "hier_16_medium_4z_zonefail|7": {
+    "deliveries": 2058,
+    "match_rate": 99.22254616132167,
+    "comm_per_robot_per_step": 0.46586874999999994,
+    "handoff_rate": 10.649698593436034,
+    "n_robots": 16,
+    "failed_robots": [
+      1
+    ]
+  },
+  "hier_16_medium_4z_zonefail|11": {
+    "deliveries": 2341,
+    "match_rate": 99.2738146091414,
+    "comm_per_robot_per_step": 0.51035,
+    "handoff_rate": 18.02928615009152,
+    "n_robots": 16,
+    "failed_robots": [
+      1
+    ]
+  },
+  "hier_16_medium_4z_zonefail|23": {
+    "deliveries": 2092,
+    "match_rate": 99.33078393881452,
+    "comm_per_robot_per_step": 0.49450625000000004,
+    "handoff_rate": 25.813728649693847,
+    "n_robots": 16,
+    "failed_robots": [
+      1,
+      13
+    ]
+  },
+  "hier_16_medium_4z_zonefail|99": {
+    "deliveries": 1509,
+    "match_rate": 99.33730947647449,
+    "comm_per_robot_per_step": 0.477665625,
+    "handoff_rate": 30.245346869712353,
+    "n_robots": 16,
+    "failed_robots": [
+      1,
+      10
+    ]
+  },
+  "hier_16_medium_4z_zonefail|314": {
+    "deliveries": 1958,
+    "match_rate": 99.2849846782431,
+    "comm_per_robot_per_step": 0.380271875,
+    "handoff_rate": 20.720084715848923,
+    "n_robots": 16,
+    "failed_robots": [
+      1,
+      7
+    ]
+  },
+  "hier_16_medium_4z_zonefail|777": {
+    "deliveries": 1582,
+    "match_rate": 99.43109987357775,
+    "comm_per_robot_per_step": 0.378740625,
+    "handoff_rate": 50.78356628547226,
+    "n_robots": 16,
+    "failed_robots": [
+      1,
+      4,
+      13
+    ]
+  }
+}

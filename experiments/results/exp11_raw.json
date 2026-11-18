@@ -1,0 +1,242 @@
+{
+  "v2|none|ge_tau5|2024": {
+    "deliveries": 1237,
+    "match_rate": 99.51495553759095,
+    "false_positive_steps": 6259,
+    "det_delay": null
+  },
+  "v2|none|ge_tau5|11": {
+    "deliveries": 1241,
+    "match_rate": 98.79129734085414,
+    "false_positive_steps": 6833,
+    "det_delay": null
+  },
+  "v2|none|ge_tau5|100": {
+    "deliveries": 1249,
+    "match_rate": 99.27942353883107,
+    "false_positive_steps": 7022,
+    "det_delay": null
+  },
+  "v2|none|ge_tau5|7": {
+    "deliveries": 1310,
+    "match_rate": 98.70229007633587,
+    "false_positive_steps": 6769,
+    "det_delay": null
+  },
+  "v2|none|ge_tau5|1": {
+    "deliveries": 1378,
+    "match_rate": 99.05660377358491,
+    "false_positive_steps": 7212,
+    "det_delay": null
+  },
+  "v2|none|ge_tau5|42": {
+    "deliveries": 1338,
+    "match_rate": 98.72944693572497,
+    "false_positive_steps": 6735,
+    "det_delay": null
+  },
+  "v2|none|ge_tau5|23": {
+    "deliveries": 1305,
+    "match_rate": 99.23371647509579,
+    "false_positive_steps": 7190,
+    "det_delay": null
+  },
+  "v2|none|ge_tau5|99": {
+    "deliveries": 1324,
+    "match_rate": 99.24471299093656,
+    "false_positive_steps": 6940,
+    "det_delay": null
+  },
+  "v2|none|ge_tau5|314": {
+    "deliveries": 1320,
+    "match_rate": 98.7121212121212,
+    "false_positive_steps": 7106,
+    "det_delay": null
+  },
+  "v2|none|ge_tau5|777": {
+    "deliveries": 1343,
+    "match_rate": 99.18093819806404,
+    "false_positive_steps": 7259,
+    "det_delay": null
+  },
+  "v2|robot0|ge_tau5|1": {
+    "deliveries": 1061,
+    "match_rate": 99.3402450518379,
+    "false_positive_steps": 5375,
+    "det_delay": 5
+  },
+  "v2|robot0|ge_tau5|42": {
+    "deliveries": 1155,
+    "match_rate": 98.96103896103897,
+    "false_positive_steps": 5391,
+    "det_delay": 5
+  },
+  "v2|robot0|ge_tau5|100": {
+    "deliveries": 983,
+    "match_rate": 98.98270600203459,
+    "false_positive_steps": 5212,
+    "det_delay": 5
+  },
+  "v2|robot0|ge_tau5|7": {
+    "deliveries": 1105,
+    "match_rate": 99.27601809954751,
+    "false_positive_steps": 5131,
+    "det_delay": 5
+  },
+  "v2|robot0|ge_tau5|11": {
+    "deliveries": 1086,
+    "match_rate": 98.80294659300183,
+    "false_positive_steps": 5265,
+    "det_delay": 5
+  },
+  "v2|robot0|ge_tau5|2024": {
+    "deliveries": 1076,
+    "match_rate": 99.53531598513011,
+    "false_positive_steps": 5046,
+    "det_delay": 0
+  },
+  "v2|robot0|ge_tau5|23": {
+    "deliveries": 1096,
+    "match_rate": 99.08759124087592,
+    "false_positive_steps": 5415,
+    "det_delay": 4
+  },
+  "v2|robot0|ge_tau5|99": {
+    "deliveries": 1130,
+    "match_rate": 99.46902654867257,
+    "false_positive_steps": 5272,
+    "det_delay": 5
+  },
+  "v2|robot0|ge_tau5|314": {
+    "deliveries": 1077,
+    "match_rate": 99.72144846796658,
+    "false_positive_steps": 5546,
+    "det_delay": 5
+  },
+  "v2|robot0|ge_tau5|777": {
+    "deliveries": 1145,
+    "match_rate": 99.21397379912665,
+    "false_positive_steps": 5121,
+    "det_delay": 5
+  },
+  "v2|none|ge_tau15|1": {
+    "deliveries": 1316,
+    "match_rate": 98.93617021276596,
+    "false_positive_steps": 944,
+    "det_delay": null
+  },
+  "v2|none|ge_tau15|42": {
+    "deliveries": 1334,
+    "match_rate": 98.87556221889055,
+    "false_positive_steps": 823,
+    "det_delay": null
+  },
+  "v2|none|ge_tau15|100": {
+    "deliveries": 1313,
+    "match_rate": 99.08606245239908,
+    "false_positive_steps": 931,
+    "det_delay": null
+  },
+  "v2|none|ge_tau15|2024": {
+    "deliveries": 1403,
+    "match_rate": 99.35851746258018,
+    "false_positive_steps": 659,
+    "det_delay": null
+  },
+  "v2|none|ge_tau15|7": {
+    "deliveries": 1283,
+    "match_rate": 98.83086515978177,
+    "false_positive_steps": 805,
+    "det_delay": null
+  },
+  "v2|none|ge_tau15|23": {
+    "deliveries": 1245,
+    "match_rate": 98.63453815261045,
+    "false_positive_steps": 893,
+    "det_delay": null
+  },
+  "v2|none|ge_tau15|11": {
+    "deliveries": 1371,
+    "match_rate": 99.12472647702407,
+    "false_positive_steps": 890,
+    "det_delay": null
+  },
+  "v2|none|ge_tau15|99": {
+    "deliveries": 1354,
+    "match_rate": 99.03988183161005,
+    "false_positive_steps": 727,
+    "det_delay": null
+  },
+  "v2|none|ge_tau15|314": {
+    "deliveries": 1330,
+    "match_rate": 99.62406015037594,
+    "false_positive_steps": 798,
+    "det_delay": null
+  },
+  "v2|none|ge_tau15|777": {
+    "deliveries": 1383,
+    "match_rate": 98.48156182212581,
+    "false_positive_steps": 969,
+    "det_delay": null
+  },
+  "v2|robot0|ge_tau15|1": {
+    "deliveries": 1106,
+    "match_rate": 99.36708860759494,
+    "false_positive_steps": 712,
+    "det_delay": 15
+  },
+  "v2|robot0|ge_tau15|42": {
+    "deliveries": 1207,
+    "match_rate": 99.17149958574979,
+    "false_positive_steps": 685,
+    "det_delay": 15
+  },
+  "v2|robot0|ge_tau15|2024": {
+    "deliveries": 1227,
+    "match_rate": 99.18500407497962,
+    "false_positive_steps": 609,
+    "det_delay": 2
+  },
+  "v2|robot0|ge_tau15|100": {
+    "deliveries": 1021,
+    "match_rate": 99.60822722820764,
+    "false_positive_steps": 692,
+    "det_delay": 15
+  },
+  "v2|robot0|ge_tau15|7": {
+    "deliveries": 1092,
+    "match_rate": 99.17582417582418,
+    "false_positive_steps": 567,
+    "det_delay": 15
+  },
+  "v2|robot0|ge_tau15|11": {
+    "deliveries": 1110,
+    "match_rate": 98.73873873873875,
+    "false_positive_steps": 657,
+    "det_delay": 15
+  },
+  "v2|robot0|ge_tau15|23": {
+    "deliveries": 1066,
+    "match_rate": 99.34333958724203,
+    "false_positive_steps": 647,
+    "det_delay": 14
+  },
+  "v2|robot0|ge_tau15|99": {
+    "deliveries": 1104,
+    "match_rate": 99.45652173913044,
+    "false_positive_steps": 527,
+    "det_delay": 15
+  },
+  "v2|robot0|ge_tau15|777": {
+    "deliveries": 1119,
+    "match_rate": 99.10634495084896,
+    "false_positive_steps": 665,
+    "det_delay": 15
+  },
+  "v2|robot0|ge_tau15|314": {
+    "deliveries": 1150,
+    "match_rate": 99.04347826086956,
+    "false_positive_steps": 524,
+    "det_delay": 15
+  }
+}

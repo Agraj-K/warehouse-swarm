@@ -1,0 +1,15 @@
+group,label,tag,healthy_mean,healthy_ci,fail_mean,fail_ci,retention_mean,retention_ci,paired_delta_ret_mean,paired_delta_ret_ci,false_positive_steps_mean,false_positive_steps_ci,dual_claims_mean,match_rate_mean,sig_degradation
+Stress Grid: tau=5 (Aggressive Timeout),"tau=5, loss=40%",grid_tau5_loss0.40,1312.4,40.5,1086.2,35.0,82.84,2.88,-3.28,5.79,998.4,29.2,5554.3,99.07,False
+Stress Grid: tau=5 (Aggressive Timeout),"tau=5, loss=60%",grid_tau5_loss0.60,1298.9,29.4,1094.4,26.1,84.33,2.69,-1.79,3.66,11246.9,182.6,6555.0,99.1,False
+Stress Grid: tau=5 (Aggressive Timeout),"tau=5, loss=80%",grid_tau5_loss0.80,1298.8,36.3,1091.1,38.0,84.07,3.0,-2.05,4.49,63045.1,420.5,11203.9,99.06,False
+Stress Grid: tau=5 (Aggressive Timeout),"tau=5, loss=90%",grid_tau5_loss0.90,1306.2,47.7,1110.3,41.5,85.18,4.16,-0.94,3.42,127719.2,490.7,16359.4,99.16,False
+Stress Grid: tau=15 (Default Timeout),"tau=15, loss=40%",grid_tau15_loss0.40,1285.6,37.5,1103.6,28.3,85.97,3.34,-0.15,0.34,0.0,0.0,5361.3,99.01,False
+Stress Grid: tau=15 (Default Timeout),"tau=15, loss=60%",grid_tau15_loss0.60,1286.8,38.4,1101.1,30.6,85.66,2.87,-0.46,3.06,72.3,11.4,5339.5,99.06,False
+Stress Grid: tau=15 (Default Timeout),"tau=15, loss=80%",grid_tau15_loss0.80,1293.1,41.6,1105.1,41.5,85.69,5.15,-0.43,4.82,6766.8,181.7,6149.2,99.1,False
+Stress Grid: tau=15 (Default Timeout),"tau=15, loss=90%",grid_tau15_loss0.90,1294.5,33.7,1084.1,30.0,83.88,3.74,-2.24,3.3,44775.8,496.2,9598.0,98.95,False
+"Radio Outage Test (Healthy Fleet, Step 500)",Mute Robot 0 (10 steps),outage_len10,1285.6,37.5,N/A,N/A,N/A,N/A,N/A,N/A,0.0,0.0,5361.3,99.01,False
+"Radio Outage Test (Healthy Fleet, Step 500)",Mute Robot 0 (20 steps),outage_len20,1278.7,38.5,N/A,N/A,N/A,N/A,N/A,N/A,15.0,0.0,5283.3,99.04,False
+"Radio Outage Test (Healthy Fleet, Step 500)",Mute Robot 0 (40 steps),outage_len40,1288.8,37.9,N/A,N/A,N/A,N/A,N/A,N/A,75.0,0.0,5380.1,99.07,False
+Lossy Task Claims Sweep (Healthy Fleet),Claim Loss 5%,claims_closs0.05,1316.3,23.2,N/A,N/A,N/A,N/A,N/A,N/A,0.0,0.0,6805.5,99.04,False
+Lossy Task Claims Sweep (Healthy Fleet),Claim Loss 10%,claims_closs0.10,1287.7,23.8,N/A,N/A,N/A,N/A,N/A,N/A,0.0,0.0,7933.0,99.2,False
+Lossy Task Claims Sweep (Healthy Fleet),Claim Loss 20%,claims_closs0.20,1311.2,51.6,N/A,N/A,N/A,N/A,N/A,N/A,0.0,0.0,10141.1,98.92,False

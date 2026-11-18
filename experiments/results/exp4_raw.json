@@ -1,0 +1,122 @@
+{
+  "0_failures|1": {
+    "deliveries": 1262,
+    "match_rate": 99.1283676703645
+  },
+  "0_failures|42": {
+    "deliveries": 1289,
+    "match_rate": 98.99146625290923
+  },
+  "0_failures|100": {
+    "deliveries": 1273,
+    "match_rate": 99.057344854674
+  },
+  "0_failures|2024": {
+    "deliveries": 1298,
+    "match_rate": 99.07550077041603
+  },
+  "0_failures|7": {
+    "deliveries": 1302,
+    "match_rate": 99.46236559139786
+  },
+  "0_failures|11": {
+    "deliveries": 1333,
+    "match_rate": 99.32483120780195
+  },
+  "0_failures|23": {
+    "deliveries": 1289,
+    "match_rate": 99.1466252909232
+  },
+  "0_failures|99": {
+    "deliveries": 1286,
+    "match_rate": 99.06687402799378
+  },
+  "0_failures|314": {
+    "deliveries": 1360,
+    "match_rate": 98.89705882352942
+  },
+  "0_failures|777": {
+    "deliveries": 1306,
+    "match_rate": 99.08116385911178
+  },
+  "1_failure|1": {
+    "deliveries": 388,
+    "match_rate": 98.71134020618557
+  },
+  "1_failure|42": {
+    "deliveries": 353,
+    "match_rate": 99.43342776203966
+  },
+  "1_failure|100": {
+    "deliveries": 375,
+    "match_rate": 99.73333333333333
+  },
+  "1_failure|2024": {
+    "deliveries": 357,
+    "match_rate": 98.59943977591037
+  },
+  "1_failure|7": {
+    "deliveries": 370,
+    "match_rate": 99.45945945945947
+  },
+  "1_failure|11": {
+    "deliveries": 372,
+    "match_rate": 98.9247311827957
+  },
+  "1_failure|23": {
+    "deliveries": 405,
+    "match_rate": 99.50617283950616
+  },
+  "1_failure|99": {
+    "deliveries": 324,
+    "match_rate": 99.38271604938271
+  },
+  "1_failure|314": {
+    "deliveries": 372,
+    "match_rate": 98.9247311827957
+  },
+  "1_failure|777": {
+    "deliveries": 320,
+    "match_rate": 99.6875
+  },
+  "2_failures|1": {
+    "deliveries": 321,
+    "match_rate": 99.06542056074767
+  },
+  "2_failures|42": {
+    "deliveries": 320,
+    "match_rate": 99.375
+  },
+  "2_failures|100": {
+    "deliveries": 311,
+    "match_rate": 99.67845659163987
+  },
+  "2_failures|2024": {
+    "deliveries": 302,
+    "match_rate": 98.67549668874173
+  },
+  "2_failures|7": {
+    "deliveries": 384,
+    "match_rate": 99.47916666666666
+  },
+  "2_failures|11": {
+    "deliveries": 355,
+    "match_rate": 98.87323943661971
+  },
+  "2_failures|23": {
+    "deliveries": 348,
+    "match_rate": 99.71264367816092
+  },
+  "2_failures|99": {
+    "deliveries": 345,
+    "match_rate": 99.71014492753623
+  },
+  "2_failures|314": {
+    "deliveries": 269,
+    "match_rate": 100.0
+  },
+  "2_failures|777": {
+    "deliveries": 354,
+    "match_rate": 99.71751412429379
+  }
+}

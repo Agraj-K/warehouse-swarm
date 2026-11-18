@@ -1,0 +1,362 @@
+{
+  "greedy_nearest|0_failures|1": {
+    "deliveries": 1829,
+    "valid": 1186,
+    "mismatched": 643,
+    "match_rate": 64.8441771459814
+  },
+  "greedy_nearest|0_failures|42": {
+    "deliveries": 1794,
+    "valid": 1219,
+    "mismatched": 575,
+    "match_rate": 67.94871794871796
+  },
+  "greedy_nearest|0_failures|100": {
+    "deliveries": 1859,
+    "valid": 1299,
+    "mismatched": 560,
+    "match_rate": 69.87627756858527
+  },
+  "greedy_nearest|0_failures|2024": {
+    "deliveries": 1836,
+    "valid": 1212,
+    "mismatched": 624,
+    "match_rate": 66.01307189542483
+  },
+  "greedy_nearest|0_failures|7": {
+    "deliveries": 1823,
+    "valid": 1219,
+    "mismatched": 604,
+    "match_rate": 66.86780032912782
+  },
+  "greedy_nearest|0_failures|11": {
+    "deliveries": 1790,
+    "valid": 1183,
+    "mismatched": 607,
+    "match_rate": 66.08938547486034
+  },
+  "greedy_nearest|0_failures|23": {
+    "deliveries": 1848,
+    "valid": 1258,
+    "mismatched": 590,
+    "match_rate": 68.07359307359307
+  },
+  "greedy_nearest|0_failures|99": {
+    "deliveries": 1884,
+    "valid": 1256,
+    "mismatched": 628,
+    "match_rate": 66.66666666666666
+  },
+  "greedy_nearest|0_failures|314": {
+    "deliveries": 1846,
+    "valid": 1228,
+    "mismatched": 618,
+    "match_rate": 66.52221018418201
+  },
+  "greedy_nearest|0_failures|777": {
+    "deliveries": 1850,
+    "valid": 1241,
+    "mismatched": 609,
+    "match_rate": 67.08108108108108
+  },
+  "greedy_nearest|1_failure|1": {
+    "deliveries": 1041,
+    "valid": 681,
+    "mismatched": 360,
+    "match_rate": 65.4178674351585
+  },
+  "greedy_nearest|1_failure|42": {
+    "deliveries": 1146,
+    "valid": 787,
+    "mismatched": 359,
+    "match_rate": 68.67364746945898
+  },
+  "greedy_nearest|1_failure|100": {
+    "deliveries": 1155,
+    "valid": 762,
+    "mismatched": 393,
+    "match_rate": 65.97402597402598
+  },
+  "greedy_nearest|1_failure|2024": {
+    "deliveries": 1033,
+    "valid": 705,
+    "mismatched": 328,
+    "match_rate": 68.24782187802518
+  },
+  "greedy_nearest|1_failure|7": {
+    "deliveries": 1194,
+    "valid": 788,
+    "mismatched": 406,
+    "match_rate": 65.9966499162479
+  },
+  "greedy_nearest|1_failure|11": {
+    "deliveries": 1261,
+    "valid": 833,
+    "mismatched": 428,
+    "match_rate": 66.05868358445677
+  },
+  "greedy_nearest|1_failure|23": {
+    "deliveries": 1181,
+    "valid": 811,
+    "mismatched": 370,
+    "match_rate": 68.6706181202371
+  },
+  "greedy_nearest|1_failure|99": {
+    "deliveries": 1068,
+    "valid": 701,
+    "mismatched": 367,
+    "match_rate": 65.63670411985018
+  },
+  "greedy_nearest|1_failure|314": {
+    "deliveries": 1055,
+    "valid": 709,
+    "mismatched": 346,
+    "match_rate": 67.20379146919431
+  },
+  "greedy_nearest|1_failure|777": {
+    "deliveries": 1065,
+    "valid": 709,
+    "mismatched": 356,
+    "match_rate": 66.57276995305165
+  },
+  "greedy_nearest|2_failures|1": {
+    "deliveries": 501,
+    "valid": 353,
+    "mismatched": 148,
+    "match_rate": 70.45908183632734
+  },
+  "greedy_nearest|2_failures|42": {
+    "deliveries": 460,
+    "valid": 308,
+    "mismatched": 152,
+    "match_rate": 66.95652173913044
+  },
+  "greedy_nearest|2_failures|100": {
+    "deliveries": 506,
+    "valid": 348,
+    "mismatched": 158,
+    "match_rate": 68.77470355731225
+  },
+  "greedy_nearest|2_failures|2024": {
+    "deliveries": 495,
+    "valid": 322,
+    "mismatched": 173,
+    "match_rate": 65.05050505050505
+  },
+  "greedy_nearest|2_failures|7": {
+    "deliveries": 417,
+    "valid": 272,
+    "mismatched": 145,
+    "match_rate": 65.22781774580336
+  },
+  "greedy_nearest|2_failures|11": {
+    "deliveries": 505,
+    "valid": 338,
+    "mismatched": 167,
+    "match_rate": 66.93069306930694
+  },
+  "greedy_nearest|2_failures|23": {
+    "deliveries": 362,
+    "valid": 232,
+    "mismatched": 130,
+    "match_rate": 64.08839779005525
+  },
+  "greedy_nearest|2_failures|99": {
+    "deliveries": 489,
+    "valid": 317,
+    "mismatched": 172,
+    "match_rate": 64.82617586912065
+  },
+  "greedy_nearest|2_failures|314": {
+    "deliveries": 546,
+    "valid": 373,
+    "mismatched": 173,
+    "match_rate": 68.31501831501832
+  },
+  "greedy_nearest|2_failures|777": {
+    "deliveries": 478,
+    "valid": 309,
+    "mismatched": 169,
+    "match_rate": 64.64435146443515
+  },
+  "greedy_eligible|0_failures|1": {
+    "deliveries": 1243,
+    "valid": 1236,
+    "mismatched": 7,
+    "match_rate": 99.4368463395012
+  },
+  "greedy_eligible|0_failures|42": {
+    "deliveries": 1121,
+    "valid": 1114,
+    "mismatched": 7,
+    "match_rate": 99.37555753791257
+  },
+  "greedy_eligible|0_failures|100": {
+    "deliveries": 1213,
+    "valid": 1203,
+    "mismatched": 10,
+    "match_rate": 99.17559769167353
+  },
+  "greedy_eligible|0_failures|2024": {
+    "deliveries": 1306,
+    "valid": 1293,
+    "mismatched": 13,
+    "match_rate": 99.00459418070444
+  },
+  "greedy_eligible|0_failures|7": {
+    "deliveries": 1265,
+    "valid": 1255,
+    "mismatched": 10,
+    "match_rate": 99.2094861660079
+  },
+  "greedy_eligible|0_failures|11": {
+    "deliveries": 1292,
+    "valid": 1279,
+    "mismatched": 13,
+    "match_rate": 98.9938080495356
+  },
+  "greedy_eligible|0_failures|23": {
+    "deliveries": 1295,
+    "valid": 1284,
+    "mismatched": 11,
+    "match_rate": 99.15057915057915
+  },
+  "greedy_eligible|0_failures|99": {
+    "deliveries": 1304,
+    "valid": 1288,
+    "mismatched": 16,
+    "match_rate": 98.77300613496932
+  },
+  "greedy_eligible|0_failures|314": {
+    "deliveries": 1318,
+    "valid": 1309,
+    "mismatched": 9,
+    "match_rate": 99.31714719271623
+  },
+  "greedy_eligible|0_failures|777": {
+    "deliveries": 1308,
+    "valid": 1298,
+    "mismatched": 10,
+    "match_rate": 99.2354740061162
+  },
+  "greedy_eligible|1_failure|1": {
+    "deliveries": 313,
+    "valid": 312,
+    "mismatched": 1,
+    "match_rate": 99.68051118210862
+  },
+  "greedy_eligible|1_failure|42": {
+    "deliveries": 327,
+    "valid": 327,
+    "mismatched": 0,
+    "match_rate": 100.0
+  },
+  "greedy_eligible|1_failure|100": {
+    "deliveries": 310,
+    "valid": 308,
+    "mismatched": 2,
+    "match_rate": 99.35483870967742
+  },
+  "greedy_eligible|1_failure|2024": {
+    "deliveries": 334,
+    "valid": 329,
+    "mismatched": 5,
+    "match_rate": 98.50299401197606
+  },
+  "greedy_eligible|1_failure|7": {
+    "deliveries": 350,
+    "valid": 349,
+    "mismatched": 1,
+    "match_rate": 99.71428571428571
+  },
+  "greedy_eligible|1_failure|11": {
+    "deliveries": 308,
+    "valid": 308,
+    "mismatched": 0,
+    "match_rate": 100.0
+  },
+  "greedy_eligible|1_failure|23": {
+    "deliveries": 337,
+    "valid": 337,
+    "mismatched": 0,
+    "match_rate": 100.0
+  },
+  "greedy_eligible|1_failure|99": {
+    "deliveries": 321,
+    "valid": 317,
+    "mismatched": 4,
+    "match_rate": 98.75389408099689
+  },
+  "greedy_eligible|1_failure|314": {
+    "deliveries": 304,
+    "valid": 300,
+    "mismatched": 4,
+    "match_rate": 98.68421052631578
+  },
+  "greedy_eligible|1_failure|777": {
+    "deliveries": 289,
+    "valid": 287,
+    "mismatched": 2,
+    "match_rate": 99.30795847750865
+  },
+  "greedy_eligible|2_failures|1": {
+    "deliveries": 194,
+    "valid": 193,
+    "mismatched": 1,
+    "match_rate": 99.48453608247422
+  },
+  "greedy_eligible|2_failures|42": {
+    "deliveries": 183,
+    "valid": 182,
+    "mismatched": 1,
+    "match_rate": 99.4535519125683
+  },
+  "greedy_eligible|2_failures|100": {
+    "deliveries": 159,
+    "valid": 159,
+    "mismatched": 0,
+    "match_rate": 100.0
+  },
+  "greedy_eligible|2_failures|2024": {
+    "deliveries": 172,
+    "valid": 171,
+    "mismatched": 1,
+    "match_rate": 99.4186046511628
+  },
+  "greedy_eligible|2_failures|7": {
+    "deliveries": 162,
+    "valid": 159,
+    "mismatched": 3,
+    "match_rate": 98.14814814814815
+  },
+  "greedy_eligible|2_failures|11": {
+    "deliveries": 207,
+    "valid": 206,
+    "mismatched": 1,
+    "match_rate": 99.51690821256038
+  },
+  "greedy_eligible|2_failures|23": {
+    "deliveries": 177,
+    "valid": 176,
+    "mismatched": 1,
+    "match_rate": 99.43502824858757
+  },
+  "greedy_eligible|2_failures|99": {
+    "deliveries": 225,
+    "valid": 224,
+    "mismatched": 1,
+    "match_rate": 99.55555555555556
+  },
+  "greedy_eligible|2_failures|314": {
+    "deliveries": 199,
+    "valid": 198,
+    "mismatched": 1,
+    "match_rate": 99.49748743718592
+  },
+  "greedy_eligible|2_failures|777": {
+    "deliveries": 218,
+    "valid": 218,
+    "mismatched": 0,
+    "match_rate": 100.0
+  }
+}

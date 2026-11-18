@@ -1,0 +1,1322 @@
+{
+  "greedy|none|base_baseline|1": {
+    "deliveries": 1245,
+    "match_rate": 99.19678714859438,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "greedy|none|base_baseline|42": {
+    "deliveries": 1264,
+    "match_rate": 99.20886075949366,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "greedy|none|base_baseline|100": {
+    "deliveries": 1415,
+    "match_rate": 98.93992932862191,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|base_baseline|100": {
+    "deliveries": 1277,
+    "match_rate": 99.29522317932654,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|base_baseline|1": {
+    "deliveries": 1303,
+    "match_rate": 98.92555640828856,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|base_baseline|42": {
+    "deliveries": 1255,
+    "match_rate": 99.04382470119522,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "greedy|none|base_baseline|2024": {
+    "deliveries": 1242,
+    "match_rate": 99.27536231884058,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|base_baseline|7": {
+    "deliveries": 1176,
+    "match_rate": 98.80952380952381,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "greedy|none|base_baseline|7": {
+    "deliveries": 1190,
+    "match_rate": 98.99159663865547,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|base_baseline|2024": {
+    "deliveries": 1362,
+    "match_rate": 98.82525697503671,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "greedy|none|base_baseline|11": {
+    "deliveries": 1271,
+    "match_rate": 98.8985051140834,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|base_baseline|11": {
+    "deliveries": 1287,
+    "match_rate": 98.75679875679876,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|base_baseline|23": {
+    "deliveries": 1318,
+    "match_rate": 98.8619119878604,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "greedy|none|base_baseline|23": {
+    "deliveries": 1211,
+    "match_rate": 99.66969446738233,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "greedy|none|base_baseline|99": {
+    "deliveries": 1389,
+    "match_rate": 99.20806335493161,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|base_baseline|99": {
+    "deliveries": 1258,
+    "match_rate": 99.12559618441972,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "greedy|none|base_baseline|314": {
+    "deliveries": 1305,
+    "match_rate": 99.23371647509579,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|base_baseline|314": {
+    "deliveries": 1274,
+    "match_rate": 99.52904238618524,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "greedy|none|base_baseline|777": {
+    "deliveries": 1188,
+    "match_rate": 98.9057239057239,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "greedy|robot0|base_baseline|42": {
+    "deliveries": 716,
+    "match_rate": 99.4413407821229,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "greedy|robot0|base_baseline|1": {
+    "deliveries": 718,
+    "match_rate": 99.72144846796658,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|none|base_baseline|777": {
+    "deliveries": 1346,
+    "match_rate": 98.95988112927192,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|robot0|base_baseline|1": {
+    "deliveries": 1086,
+    "match_rate": 99.0791896869245,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|base_baseline|42": {
+    "deliveries": 1151,
+    "match_rate": 99.6524761077324,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "greedy|robot0|base_baseline|100": {
+    "deliveries": 707,
+    "match_rate": 99.57567185289957,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "greedy|robot0|base_baseline|2024": {
+    "deliveries": 671,
+    "match_rate": 99.40387481371089,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|base_baseline|100": {
+    "deliveries": 1046,
+    "match_rate": 99.90439770554494,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "greedy|robot0|base_baseline|7": {
+    "deliveries": 707,
+    "match_rate": 99.29278642149929,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|base_baseline|2024": {
+    "deliveries": 1120,
+    "match_rate": 99.01785714285715,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|base_baseline|7": {
+    "deliveries": 1112,
+    "match_rate": 99.37050359712231,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "greedy|robot0|base_baseline|11": {
+    "deliveries": 670,
+    "match_rate": 99.40298507462687,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "greedy|robot0|base_baseline|23": {
+    "deliveries": 682,
+    "match_rate": 99.41348973607037,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|base_baseline|11": {
+    "deliveries": 1159,
+    "match_rate": 99.30974978429681,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "greedy|robot0|base_baseline|99": {
+    "deliveries": 713,
+    "match_rate": 99.4389901823282,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|base_baseline|23": {
+    "deliveries": 1092,
+    "match_rate": 99.17582417582418,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|base_baseline|99": {
+    "deliveries": 1121,
+    "match_rate": 99.01873327386262,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "greedy|robot0|base_baseline|314": {
+    "deliveries": 738,
+    "match_rate": 99.45799457994579,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|base_baseline|314": {
+    "deliveries": 1040,
+    "match_rate": 99.71153846153847,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "greedy|robot0|base_baseline|777": {
+    "deliveries": 709,
+    "match_rate": 99.29478138222849,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|base_baseline|777": {
+    "deliveries": 1128,
+    "match_rate": 99.37943262411348,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|none|loss_0.05|1": {
+    "deliveries": 1303,
+    "match_rate": 98.92555640828856,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.05|42": {
+    "deliveries": 1255,
+    "match_rate": 99.04382470119522,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.05|100": {
+    "deliveries": 1277,
+    "match_rate": 99.29522317932654,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.05|7": {
+    "deliveries": 1176,
+    "match_rate": 98.80952380952381,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.05|2024": {
+    "deliveries": 1362,
+    "match_rate": 98.82525697503671,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.05|11": {
+    "deliveries": 1287,
+    "match_rate": 98.75679875679876,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.05|23": {
+    "deliveries": 1318,
+    "match_rate": 98.8619119878604,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.05|99": {
+    "deliveries": 1258,
+    "match_rate": 99.12559618441972,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.05|314": {
+    "deliveries": 1274,
+    "match_rate": 99.52904238618524,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.05|777": {
+    "deliveries": 1346,
+    "match_rate": 98.95988112927192,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|robot0|loss_0.05|1": {
+    "deliveries": 1086,
+    "match_rate": 99.0791896869245,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.05|42": {
+    "deliveries": 1151,
+    "match_rate": 99.6524761077324,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.05|100": {
+    "deliveries": 1046,
+    "match_rate": 99.90439770554494,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.05|2024": {
+    "deliveries": 1120,
+    "match_rate": 99.01785714285715,
+    "false_positive_steps": 0,
+    "det_delay": 14
+  },
+  "v2|robot0|loss_0.05|7": {
+    "deliveries": 1112,
+    "match_rate": 99.37050359712231,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.05|11": {
+    "deliveries": 1159,
+    "match_rate": 99.30974978429681,
+    "false_positive_steps": 0,
+    "det_delay": 14
+  },
+  "v2|robot0|loss_0.05|23": {
+    "deliveries": 1092,
+    "match_rate": 99.17582417582418,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.05|99": {
+    "deliveries": 1121,
+    "match_rate": 99.01873327386262,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.05|314": {
+    "deliveries": 1040,
+    "match_rate": 99.71153846153847,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.05|777": {
+    "deliveries": 1128,
+    "match_rate": 99.37943262411348,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|none|loss_0.1|1": {
+    "deliveries": 1303,
+    "match_rate": 98.92555640828856,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.1|42": {
+    "deliveries": 1255,
+    "match_rate": 99.04382470119522,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.1|100": {
+    "deliveries": 1277,
+    "match_rate": 99.29522317932654,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.1|2024": {
+    "deliveries": 1362,
+    "match_rate": 98.82525697503671,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.1|7": {
+    "deliveries": 1176,
+    "match_rate": 98.80952380952381,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.1|11": {
+    "deliveries": 1287,
+    "match_rate": 98.75679875679876,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.1|23": {
+    "deliveries": 1318,
+    "match_rate": 98.8619119878604,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.1|99": {
+    "deliveries": 1258,
+    "match_rate": 99.12559618441972,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.1|314": {
+    "deliveries": 1274,
+    "match_rate": 99.52904238618524,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.1|777": {
+    "deliveries": 1346,
+    "match_rate": 98.95988112927192,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|robot0|loss_0.1|1": {
+    "deliveries": 1086,
+    "match_rate": 99.0791896869245,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.1|42": {
+    "deliveries": 1151,
+    "match_rate": 99.6524761077324,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.1|100": {
+    "deliveries": 1046,
+    "match_rate": 99.90439770554494,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.1|2024": {
+    "deliveries": 1120,
+    "match_rate": 99.01785714285715,
+    "false_positive_steps": 0,
+    "det_delay": 12
+  },
+  "v2|robot0|loss_0.1|7": {
+    "deliveries": 1112,
+    "match_rate": 99.37050359712231,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.1|11": {
+    "deliveries": 1159,
+    "match_rate": 99.30974978429681,
+    "false_positive_steps": 0,
+    "det_delay": 14
+  },
+  "v2|robot0|loss_0.1|23": {
+    "deliveries": 1092,
+    "match_rate": 99.17582417582418,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.1|99": {
+    "deliveries": 1102,
+    "match_rate": 99.27404718693285,
+    "false_positive_steps": 0,
+    "det_delay": 13
+  },
+  "v2|robot0|loss_0.1|314": {
+    "deliveries": 1040,
+    "match_rate": 99.71153846153847,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.1|777": {
+    "deliveries": 1128,
+    "match_rate": 99.37943262411348,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|none|loss_0.2|1": {
+    "deliveries": 1303,
+    "match_rate": 98.92555640828856,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.2|42": {
+    "deliveries": 1255,
+    "match_rate": 99.04382470119522,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.2|100": {
+    "deliveries": 1277,
+    "match_rate": 99.29522317932654,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.2|2024": {
+    "deliveries": 1362,
+    "match_rate": 98.82525697503671,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.2|7": {
+    "deliveries": 1176,
+    "match_rate": 98.80952380952381,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.2|11": {
+    "deliveries": 1287,
+    "match_rate": 98.75679875679876,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.2|23": {
+    "deliveries": 1318,
+    "match_rate": 98.8619119878604,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.2|99": {
+    "deliveries": 1258,
+    "match_rate": 99.12559618441972,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.2|314": {
+    "deliveries": 1274,
+    "match_rate": 99.52904238618524,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|loss_0.2|777": {
+    "deliveries": 1346,
+    "match_rate": 98.95988112927192,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|robot0|loss_0.2|1": {
+    "deliveries": 1086,
+    "match_rate": 99.0791896869245,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.2|42": {
+    "deliveries": 1151,
+    "match_rate": 99.6524761077324,
+    "false_positive_steps": 0,
+    "det_delay": 13
+  },
+  "v2|robot0|loss_0.2|100": {
+    "deliveries": 1046,
+    "match_rate": 99.90439770554494,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.2|2024": {
+    "deliveries": 1120,
+    "match_rate": 99.01785714285715,
+    "false_positive_steps": 0,
+    "det_delay": 12
+  },
+  "v2|robot0|loss_0.2|7": {
+    "deliveries": 1112,
+    "match_rate": 99.37050359712231,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.2|11": {
+    "deliveries": 1159,
+    "match_rate": 99.30974978429681,
+    "false_positive_steps": 0,
+    "det_delay": 14
+  },
+  "v2|robot0|loss_0.2|23": {
+    "deliveries": 1092,
+    "match_rate": 99.17582417582418,
+    "false_positive_steps": 0,
+    "det_delay": 15
+  },
+  "v2|robot0|loss_0.2|99": {
+    "deliveries": 1102,
+    "match_rate": 99.27404718693285,
+    "false_positive_steps": 0,
+    "det_delay": 13
+  },
+  "v2|robot0|loss_0.2|314": {
+    "deliveries": 1040,
+    "match_rate": 99.71153846153847,
+    "false_positive_steps": 0,
+    "det_delay": 14
+  },
+  "v2|robot0|loss_0.2|777": {
+    "deliveries": 1128,
+    "match_rate": 99.37943262411348,
+    "false_positive_steps": 0,
+    "det_delay": 14
+  },
+  "v2|none|delay_1|1": {
+    "deliveries": 1303,
+    "match_rate": 98.92555640828856,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_1|42": {
+    "deliveries": 1255,
+    "match_rate": 99.04382470119522,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_1|100": {
+    "deliveries": 1277,
+    "match_rate": 99.29522317932654,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_1|2024": {
+    "deliveries": 1362,
+    "match_rate": 98.82525697503671,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_1|7": {
+    "deliveries": 1176,
+    "match_rate": 98.80952380952381,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_1|11": {
+    "deliveries": 1287,
+    "match_rate": 98.75679875679876,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_1|23": {
+    "deliveries": 1318,
+    "match_rate": 98.8619119878604,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_1|99": {
+    "deliveries": 1258,
+    "match_rate": 99.12559618441972,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_1|314": {
+    "deliveries": 1274,
+    "match_rate": 99.52904238618524,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_1|777": {
+    "deliveries": 1346,
+    "match_rate": 98.95988112927192,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|robot0|delay_1|1": {
+    "deliveries": 1086,
+    "match_rate": 99.0791896869245,
+    "false_positive_steps": 0,
+    "det_delay": 16
+  },
+  "v2|robot0|delay_1|42": {
+    "deliveries": 1151,
+    "match_rate": 99.6524761077324,
+    "false_positive_steps": 0,
+    "det_delay": 16
+  },
+  "v2|robot0|delay_1|100": {
+    "deliveries": 1046,
+    "match_rate": 99.90439770554494,
+    "false_positive_steps": 0,
+    "det_delay": 16
+  },
+  "v2|robot0|delay_1|2024": {
+    "deliveries": 1120,
+    "match_rate": 99.01785714285715,
+    "false_positive_steps": 0,
+    "det_delay": 16
+  },
+  "v2|robot0|delay_1|7": {
+    "deliveries": 1112,
+    "match_rate": 99.37050359712231,
+    "false_positive_steps": 0,
+    "det_delay": 16
+  },
+  "v2|robot0|delay_1|11": {
+    "deliveries": 1159,
+    "match_rate": 99.30974978429681,
+    "false_positive_steps": 0,
+    "det_delay": 16
+  },
+  "v2|robot0|delay_1|23": {
+    "deliveries": 1092,
+    "match_rate": 99.17582417582418,
+    "false_positive_steps": 0,
+    "det_delay": 16
+  },
+  "v2|robot0|delay_1|99": {
+    "deliveries": 1107,
+    "match_rate": 99.1869918699187,
+    "false_positive_steps": 0,
+    "det_delay": 16
+  },
+  "v2|robot0|delay_1|314": {
+    "deliveries": 1040,
+    "match_rate": 99.71153846153847,
+    "false_positive_steps": 0,
+    "det_delay": 16
+  },
+  "v2|robot0|delay_1|777": {
+    "deliveries": 1121,
+    "match_rate": 99.46476360392506,
+    "false_positive_steps": 0,
+    "det_delay": 16
+  },
+  "v2|none|delay_3|1": {
+    "deliveries": 1303,
+    "match_rate": 98.92555640828856,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_3|42": {
+    "deliveries": 1255,
+    "match_rate": 99.04382470119522,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_3|100": {
+    "deliveries": 1277,
+    "match_rate": 99.29522317932654,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_3|2024": {
+    "deliveries": 1362,
+    "match_rate": 98.82525697503671,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_3|7": {
+    "deliveries": 1176,
+    "match_rate": 98.80952380952381,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_3|11": {
+    "deliveries": 1287,
+    "match_rate": 98.75679875679876,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_3|23": {
+    "deliveries": 1318,
+    "match_rate": 98.8619119878604,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_3|99": {
+    "deliveries": 1258,
+    "match_rate": 99.12559618441972,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_3|314": {
+    "deliveries": 1274,
+    "match_rate": 99.52904238618524,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_3|777": {
+    "deliveries": 1346,
+    "match_rate": 98.95988112927192,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|robot0|delay_3|1": {
+    "deliveries": 1086,
+    "match_rate": 99.0791896869245,
+    "false_positive_steps": 0,
+    "det_delay": 18
+  },
+  "v2|robot0|delay_3|42": {
+    "deliveries": 1151,
+    "match_rate": 99.6524761077324,
+    "false_positive_steps": 0,
+    "det_delay": 18
+  },
+  "v2|robot0|delay_3|100": {
+    "deliveries": 1046,
+    "match_rate": 99.90439770554494,
+    "false_positive_steps": 0,
+    "det_delay": 18
+  },
+  "v2|robot0|delay_3|7": {
+    "deliveries": 1112,
+    "match_rate": 99.37050359712231,
+    "false_positive_steps": 0,
+    "det_delay": 18
+  },
+  "v2|robot0|delay_3|2024": {
+    "deliveries": 1120,
+    "match_rate": 99.01785714285715,
+    "false_positive_steps": 0,
+    "det_delay": 18
+  },
+  "v2|robot0|delay_3|11": {
+    "deliveries": 1159,
+    "match_rate": 99.30974978429681,
+    "false_positive_steps": 0,
+    "det_delay": 18
+  },
+  "v2|robot0|delay_3|23": {
+    "deliveries": 1092,
+    "match_rate": 99.17582417582418,
+    "false_positive_steps": 0,
+    "det_delay": 18
+  },
+  "v2|robot0|delay_3|314": {
+    "deliveries": 1040,
+    "match_rate": 99.71153846153847,
+    "false_positive_steps": 0,
+    "det_delay": 18
+  },
+  "v2|robot0|delay_3|777": {
+    "deliveries": 1121,
+    "match_rate": 99.46476360392506,
+    "false_positive_steps": 0,
+    "det_delay": 18
+  },
+  "v2|robot0|delay_3|99": {
+    "deliveries": 986,
+    "match_rate": 99.39148073022312,
+    "false_positive_steps": 0,
+    "det_delay": 18
+  },
+  "v2|none|delay_5|1": {
+    "deliveries": 1303,
+    "match_rate": 98.92555640828856,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_5|42": {
+    "deliveries": 1255,
+    "match_rate": 99.04382470119522,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_5|100": {
+    "deliveries": 1277,
+    "match_rate": 99.29522317932654,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_5|7": {
+    "deliveries": 1176,
+    "match_rate": 98.80952380952381,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_5|2024": {
+    "deliveries": 1362,
+    "match_rate": 98.82525697503671,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_5|11": {
+    "deliveries": 1287,
+    "match_rate": 98.75679875679876,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_5|23": {
+    "deliveries": 1318,
+    "match_rate": 98.8619119878604,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_5|99": {
+    "deliveries": 1258,
+    "match_rate": 99.12559618441972,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_5|314": {
+    "deliveries": 1274,
+    "match_rate": 99.52904238618524,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|delay_5|777": {
+    "deliveries": 1346,
+    "match_rate": 98.95988112927192,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|robot0|delay_5|1": {
+    "deliveries": 1086,
+    "match_rate": 99.0791896869245,
+    "false_positive_steps": 0,
+    "det_delay": 20
+  },
+  "v2|robot0|delay_5|42": {
+    "deliveries": 1151,
+    "match_rate": 99.6524761077324,
+    "false_positive_steps": 0,
+    "det_delay": 20
+  },
+  "v2|robot0|delay_5|100": {
+    "deliveries": 1046,
+    "match_rate": 99.90439770554494,
+    "false_positive_steps": 0,
+    "det_delay": 20
+  },
+  "v2|robot0|delay_5|2024": {
+    "deliveries": 1120,
+    "match_rate": 99.01785714285715,
+    "false_positive_steps": 0,
+    "det_delay": 20
+  },
+  "v2|robot0|delay_5|7": {
+    "deliveries": 1112,
+    "match_rate": 99.37050359712231,
+    "false_positive_steps": 0,
+    "det_delay": 20
+  },
+  "v2|robot0|delay_5|11": {
+    "deliveries": 1159,
+    "match_rate": 99.30974978429681,
+    "false_positive_steps": 0,
+    "det_delay": 20
+  },
+  "v2|robot0|delay_5|23": {
+    "deliveries": 1113,
+    "match_rate": 98.74213836477988,
+    "false_positive_steps": 0,
+    "det_delay": 20
+  },
+  "v2|robot0|delay_5|99": {
+    "deliveries": 1087,
+    "match_rate": 99.26402943882245,
+    "false_positive_steps": 0,
+    "det_delay": 20
+  },
+  "v2|robot0|delay_5|314": {
+    "deliveries": 1040,
+    "match_rate": 99.71153846153847,
+    "false_positive_steps": 0,
+    "det_delay": 20
+  },
+  "v2|robot0|delay_5|777": {
+    "deliveries": 1121,
+    "match_rate": 99.46476360392506,
+    "false_positive_steps": 0,
+    "det_delay": 20
+  },
+  "v2|none|timeout_5|1": {
+    "deliveries": 1303,
+    "match_rate": 98.92555640828856,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_5|42": {
+    "deliveries": 1255,
+    "match_rate": 99.04382470119522,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_5|100": {
+    "deliveries": 1277,
+    "match_rate": 99.29522317932654,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_5|2024": {
+    "deliveries": 1362,
+    "match_rate": 98.82525697503671,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_5|7": {
+    "deliveries": 1176,
+    "match_rate": 98.80952380952381,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_5|11": {
+    "deliveries": 1287,
+    "match_rate": 98.75679875679876,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_5|99": {
+    "deliveries": 1258,
+    "match_rate": 99.12559618441972,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_5|23": {
+    "deliveries": 1318,
+    "match_rate": 98.8619119878604,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_5|314": {
+    "deliveries": 1274,
+    "match_rate": 99.52904238618524,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_5|777": {
+    "deliveries": 1346,
+    "match_rate": 98.95988112927192,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|robot0|timeout_5|1": {
+    "deliveries": 1109,
+    "match_rate": 99.54914337240758,
+    "false_positive_steps": 0,
+    "det_delay": 5
+  },
+  "v2|robot0|timeout_5|42": {
+    "deliveries": 1151,
+    "match_rate": 99.6524761077324,
+    "false_positive_steps": 0,
+    "det_delay": 5
+  },
+  "v2|robot0|timeout_5|100": {
+    "deliveries": 1046,
+    "match_rate": 99.90439770554494,
+    "false_positive_steps": 0,
+    "det_delay": 5
+  },
+  "v2|robot0|timeout_5|2024": {
+    "deliveries": 1120,
+    "match_rate": 99.01785714285715,
+    "false_positive_steps": 0,
+    "det_delay": 5
+  },
+  "v2|robot0|timeout_5|7": {
+    "deliveries": 1112,
+    "match_rate": 99.37050359712231,
+    "false_positive_steps": 0,
+    "det_delay": 5
+  },
+  "v2|robot0|timeout_5|11": {
+    "deliveries": 1159,
+    "match_rate": 99.30974978429681,
+    "false_positive_steps": 0,
+    "det_delay": 5
+  },
+  "v2|robot0|timeout_5|23": {
+    "deliveries": 1092,
+    "match_rate": 99.17582417582418,
+    "false_positive_steps": 0,
+    "det_delay": 5
+  },
+  "v2|robot0|timeout_5|99": {
+    "deliveries": 1096,
+    "match_rate": 99.08759124087592,
+    "false_positive_steps": 0,
+    "det_delay": 5
+  },
+  "v2|robot0|timeout_5|314": {
+    "deliveries": 1040,
+    "match_rate": 99.71153846153847,
+    "false_positive_steps": 0,
+    "det_delay": 5
+  },
+  "v2|robot0|timeout_5|777": {
+    "deliveries": 1107,
+    "match_rate": 99.2773261065944,
+    "false_positive_steps": 0,
+    "det_delay": 5
+  },
+  "v2|none|timeout_10|1": {
+    "deliveries": 1303,
+    "match_rate": 98.92555640828856,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_10|100": {
+    "deliveries": 1277,
+    "match_rate": 99.29522317932654,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_10|42": {
+    "deliveries": 1255,
+    "match_rate": 99.04382470119522,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_10|2024": {
+    "deliveries": 1362,
+    "match_rate": 98.82525697503671,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_10|7": {
+    "deliveries": 1176,
+    "match_rate": 98.80952380952381,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_10|11": {
+    "deliveries": 1287,
+    "match_rate": 98.75679875679876,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_10|23": {
+    "deliveries": 1318,
+    "match_rate": 98.8619119878604,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_10|99": {
+    "deliveries": 1258,
+    "match_rate": 99.12559618441972,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_10|314": {
+    "deliveries": 1274,
+    "match_rate": 99.52904238618524,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_10|777": {
+    "deliveries": 1346,
+    "match_rate": 98.95988112927192,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|robot0|timeout_10|1": {
+    "deliveries": 1125,
+    "match_rate": 99.64444444444445,
+    "false_positive_steps": 0,
+    "det_delay": 10
+  },
+  "v2|robot0|timeout_10|42": {
+    "deliveries": 1151,
+    "match_rate": 99.6524761077324,
+    "false_positive_steps": 0,
+    "det_delay": 10
+  },
+  "v2|robot0|timeout_10|100": {
+    "deliveries": 1046,
+    "match_rate": 99.90439770554494,
+    "false_positive_steps": 0,
+    "det_delay": 10
+  },
+  "v2|robot0|timeout_10|11": {
+    "deliveries": 1159,
+    "match_rate": 99.30974978429681,
+    "false_positive_steps": 0,
+    "det_delay": 10
+  },
+  "v2|robot0|timeout_10|7": {
+    "deliveries": 1112,
+    "match_rate": 99.37050359712231,
+    "false_positive_steps": 0,
+    "det_delay": 10
+  },
+  "v2|robot0|timeout_10|2024": {
+    "deliveries": 1120,
+    "match_rate": 99.01785714285715,
+    "false_positive_steps": 0,
+    "det_delay": 10
+  },
+  "v2|robot0|timeout_10|23": {
+    "deliveries": 1092,
+    "match_rate": 99.17582417582418,
+    "false_positive_steps": 0,
+    "det_delay": 10
+  },
+  "v2|robot0|timeout_10|99": {
+    "deliveries": 1088,
+    "match_rate": 98.98897058823529,
+    "false_positive_steps": 0,
+    "det_delay": 10
+  },
+  "v2|robot0|timeout_10|777": {
+    "deliveries": 1051,
+    "match_rate": 99.14367269267365,
+    "false_positive_steps": 0,
+    "det_delay": 10
+  },
+  "v2|robot0|timeout_10|314": {
+    "deliveries": 1040,
+    "match_rate": 99.71153846153847,
+    "false_positive_steps": 0,
+    "det_delay": 10
+  },
+  "v2|none|timeout_30|42": {
+    "deliveries": 1255,
+    "match_rate": 99.04382470119522,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_30|1": {
+    "deliveries": 1303,
+    "match_rate": 98.92555640828856,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_30|100": {
+    "deliveries": 1277,
+    "match_rate": 99.29522317932654,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_30|2024": {
+    "deliveries": 1362,
+    "match_rate": 98.82525697503671,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_30|7": {
+    "deliveries": 1176,
+    "match_rate": 98.80952380952381,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_30|11": {
+    "deliveries": 1287,
+    "match_rate": 98.75679875679876,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_30|23": {
+    "deliveries": 1318,
+    "match_rate": 98.8619119878604,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_30|99": {
+    "deliveries": 1258,
+    "match_rate": 99.12559618441972,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_30|314": {
+    "deliveries": 1274,
+    "match_rate": 99.52904238618524,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|none|timeout_30|777": {
+    "deliveries": 1346,
+    "match_rate": 98.95988112927192,
+    "false_positive_steps": 0,
+    "det_delay": null
+  },
+  "v2|robot0|timeout_30|1": {
+    "deliveries": 1086,
+    "match_rate": 99.0791896869245,
+    "false_positive_steps": 0,
+    "det_delay": 30
+  },
+  "v2|robot0|timeout_30|42": {
+    "deliveries": 1151,
+    "match_rate": 99.6524761077324,
+    "false_positive_steps": 0,
+    "det_delay": 30
+  },
+  "v2|robot0|timeout_30|2024": {
+    "deliveries": 1120,
+    "match_rate": 99.01785714285715,
+    "false_positive_steps": 0,
+    "det_delay": 30
+  },
+  "v2|robot0|timeout_30|100": {
+    "deliveries": 1046,
+    "match_rate": 99.90439770554494,
+    "false_positive_steps": 0,
+    "det_delay": 30
+  },
+  "v2|robot0|timeout_30|7": {
+    "deliveries": 1112,
+    "match_rate": 99.37050359712231,
+    "false_positive_steps": 0,
+    "det_delay": 30
+  },
+  "v2|robot0|timeout_30|11": {
+    "deliveries": 1090,
+    "match_rate": 99.54128440366972,
+    "false_positive_steps": 0,
+    "det_delay": 30
+  },
+  "v2|robot0|timeout_30|23": {
+    "deliveries": 1013,
+    "match_rate": 99.40769990128332,
+    "false_positive_steps": 0,
+    "det_delay": 30
+  },
+  "v2|robot0|timeout_30|99": {
+    "deliveries": 1090,
+    "match_rate": 99.54128440366972,
+    "false_positive_steps": 0,
+    "det_delay": 30
+  },
+  "v2|robot0|timeout_30|777": {
+    "deliveries": 1121,
+    "match_rate": 99.46476360392506,
+    "false_positive_steps": 0,
+    "det_delay": 30
+  },
+  "v2|robot0|timeout_30|314": {
+    "deliveries": 1040,
+    "match_rate": 99.71153846153847,
+    "false_positive_steps": 0,
+    "det_delay": 30
+  }
+}

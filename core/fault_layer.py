@@ -11,8 +11,6 @@ Stage 1 only detects failures; it does not yet reallocate stale claims
 (that's Stage 2).
 """
 
-import numpy as np
-
 
 class FaultLayer:
     COMM_RANGE = 20
